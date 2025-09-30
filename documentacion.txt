@@ -1,0 +1,40 @@
+
+Practica de git con comandos 
+Hacer cambios en un archivo
+Hacer commit
+Subir cambios 
+Y hacer merch con la rama principal 
+TODO DOCUMENTAD 
+
+pasos 1 
+git init
+
+paso 2
+git status
+
+para verificar de que todo este correcto
+
+paso 3 
+git add .
+
+paso 4
+git remote add origin https://github.com/Ridereptil/git_practica_documentado.git
+
+paso 5 
+git commit -m "el nombre que recibira el commit"
+
+paso 6
+git add origin master
+
+
+paso 7 creas la rama
+git branch nueva
+
+paso 8 cambias de rama 
+git checkout rama modificada
+
+paso 9 haces cambios en la segunda rama
+git add . 
+git commit -m "los cambios"
+paso 10 unes la rama creada con la original
+git merge nueva
