@@ -31,7 +31,7 @@ paso 7 creas la rama
 git branch nueva
 
 paso 8 cambias de rama 
-git checkout rama modificada
+git checkout rama1
 
 paso 9 haces cambios en la segunda rama
 git add . 
