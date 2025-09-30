@@ -21,10 +21,10 @@ paso 4
 git remote add origin https://github.com/Ridereptil/git_practica_documentado.git
 
 paso 5 
-git commit -m "el nombre que recibira el commit"
+git commit -m "primer commit"
 
 paso 6
-git add origin master
+git push origin master
 
 
 paso 7 creas la rama
