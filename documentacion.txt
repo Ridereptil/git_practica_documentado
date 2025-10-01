@@ -1,4 +1,3 @@
-
 Practica de git con comandos 
 Hacer cambios en un archivo
 Hacer commit
@@ -6,31 +5,28 @@ Subir cambios
 Y hacer merch con la rama principal 
 TODO DOCUMENTAD 
 
-pasos 1 
+pasos 1 para iniciar el repositorio
 git init
 
-paso 2
+paso 2 para verificar de que todo este correcto
 git status
 
-para verificar de que todo este correcto
-
-paso 3 
+paso 3 guardar los cambios 
 git add .
 
-paso 4
+paso 4 saber de que git remoto sera en el que se subiran los cambios
 git remote add origin https://github.com/Ridereptil/git_practica_documentado.git
 
-paso 5 
+paso 5 confirmar los cambios que se hicieron como un punto de guardado
 git commit -m "primer commit"
 
-paso 6
+paso 6 subir los cambios al repositorio remoto en la rama que se le indico
 git push origin master
 
-
-paso 7 creas la rama
+paso 7 creas la rama en la cual se haran cambios
 git branch nueva
 
-paso 8 cambias de rama 
+paso 8 cambias de rama a la nueva rama creada
 git checkout rama1
 
 paso 9 haces cambios en la segunda rama
